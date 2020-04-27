@@ -1,0 +1,21 @@
+Things to include in your "game engine":
+-----------------------------------------------------
+
+
+- Collision Detection 
+
+- State class
+
+- Entity Class 
+
+- Button Class
+
+- MainMenuState (Simple) 
+
+- PlayAgainState
+
+- Animation 
+
+- Text box 
+
+- Game Class 
